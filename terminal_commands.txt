@@ -11,4 +11,5 @@ ls
 ls -a, to view hidden files and directories
 ls directoryname
 cd directoryname
+cd ..
 pwd

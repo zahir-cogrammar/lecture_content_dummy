@@ -1,4 +1,17 @@
+git --version
 git init
+git config user.name your_name_here
+git config user.email your_github_account_email_here
 git status
 git add filename, Note don't forget the extension
 git add .
+git commit -m "This message is compulsary"
+git log
+
+-------- Sync local repo to Github repository---------------------
+git remote add origin https://github.com/[REPO-OWNER]/[REPO-NAME]
+git branch -M main
+git push -u origin main
+------------------------------------------------------------------
+git clone https://github.com/[REPO-OWNER]/[REPO-NAME]
+git fetch origin

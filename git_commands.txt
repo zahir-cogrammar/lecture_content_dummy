@@ -12,6 +12,12 @@ git log
 git remote add origin https://github.com/[REPO-OWNER]/[REPO-NAME]
 git branch -M main
 git push -u origin main
+
 ------------------------------------------------------------------
 git clone https://github.com/[REPO-OWNER]/[REPO-NAME]
 git fetch origin
+
+--------------Another Branch In The Wall---------------------------
+git branch, to list all branches
+git branch branch-name
+git checkout branch-name

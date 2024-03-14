@@ -1,0 +1,4 @@
+git init
+git status
+git add filename, Note don't forget the extension
+git add .

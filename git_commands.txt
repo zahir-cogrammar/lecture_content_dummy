@@ -21,3 +21,4 @@ git fetch origin
 git branch, to list all branches
 git branch branch-name
 git checkout branch-name
+git merge branch_name, merge branches, make sure to check out to the target branch first and ensure all your changes are commited
